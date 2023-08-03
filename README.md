@@ -8,4 +8,4 @@ Based on the incidence of cancer for each state, what percentage of cancer incid
 What is the relationship between unemployment and cancer incidence for each state?
 Does having private insurance vs public insurance correlate with higher or lower death percentages?
 
-In order to more clearly demonstrate the insights that our analysis created visualizations were created to display our findings. 
+In order to clearly demonstrate the insights that our analysis created visualizations were created to display our findings. 
